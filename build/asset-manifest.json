@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f7d2fca.css",
+    "main.js": "/static/js/main.562ab8e2.js",
+    "static/media/about.jpg": "/static/media/about.4e6100a06673fca2db51.jpg",
+    "static/media/card3.jpg": "/static/media/card3.bb0e5281b510497c1e68.jpg",
+    "static/media/mountain4.jpg": "/static/media/mountain4.86775c66f7411d855011.jpg",
+    "static/media/contact.jpg": "/static/media/contact.32b3dea42170d62656d1.jpg",
+    "static/media/card2.jpg": "/static/media/card2.e21527dfa71b08993dfd.jpg",
+    "static/media/mountain2.jpg": "/static/media/mountain2.99203cdcd4115f74b8e4.jpg",
+    "static/media/mountain.jpg": "/static/media/mountain.1e1cc35b306679e8e81a.jpg",
+    "static/media/mountain3.jpg": "/static/media/mountain3.328640455a0ad73b142c.jpg",
+    "static/media/card1.jpg": "/static/media/card1.42a1e7eb79aab16e6b0f.jpg",
+    "static/media/service.jpg": "/static/media/service.fcfd3dce8b9a691a3ee2.jpg",
+    "index.html": "/index.html",
+    "main.6f7d2fca.css.map": "/static/css/main.6f7d2fca.css.map",
+    "main.562ab8e2.js.map": "/static/js/main.562ab8e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7d2fca.css",
+    "static/js/main.562ab8e2.js"
+  ]
+}
